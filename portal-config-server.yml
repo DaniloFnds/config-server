@@ -1,2 +1,3 @@
 danilo: fernandes
 URL_ARQUIVO_SERVICE: arquivo-service/api/v1/arquivos
+ARQUIVO_SERVICE_END_POINT: /api/v1/arquivos
