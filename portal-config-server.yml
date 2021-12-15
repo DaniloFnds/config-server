@@ -3,3 +3,4 @@ URL_ARQUIVO_SERVICE: arquivo-service/api/v1/arquivos
 ARQUIVO_SERVICE_END_POINT: /api/v1/arquivos
 STORAGE_PATH_IMPORTACAO_ARQUIVO: D:/storage
 KAFKA_SERVER: dhan.com.br:9094
+EUREKA_SERVER: http://localhost:9000/eureka
